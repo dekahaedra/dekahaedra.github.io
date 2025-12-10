@@ -1,2 +1,1 @@
-# axquaris.github.io
-wip website
+# dekahaedra.github.io
