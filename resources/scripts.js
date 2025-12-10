@@ -61,7 +61,7 @@ const reflectPreference = () => {
  */
 const theme = {
     // value: getColorPreference(), // Set the default theme to light (professional)
-    value: 'light',
+    value: 'dark',
 };
 
 // set early so no page flashes / CSS is made aware

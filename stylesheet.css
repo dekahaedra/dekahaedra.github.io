@@ -91,6 +91,19 @@ p {
 	color: var(--text-color-dark);
 }
 
+strong {
+	font-weight: 700;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+td strong {
+	color: #1a1a1a;
+}
+
+[data-theme=dark] td strong {
+	color: #ffffff;
+}
+
 h1,
 h2,
 h3,
